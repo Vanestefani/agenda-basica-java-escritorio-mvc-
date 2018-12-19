@@ -20,7 +20,7 @@ public class mdlConexion {
     
     private final String User="root";
     private final  String pass="";
-        private final  String BD="agenda";
+        private final  String BD="agenda_simple";
 private final String puerto="3306";
 private final String url="localhost";
 private final String driver="jdbc:mysql://"+url+":"+puerto+"/"+BD;
