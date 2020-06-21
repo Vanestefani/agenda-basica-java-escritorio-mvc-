@@ -5,11 +5,11 @@
 
 
 
-# Requrimientos
+# Requerimientos
 -Java
 -Mysql
 
-#Uso
+# Uso
 
 -Importar base de datos "agenda_simple.sql"
 -Dentro de la carpeta AgendaProfesor/Libreriasv estas las librerias,si te dice que un archivo falta lo abres desde ahi para resolverlo
